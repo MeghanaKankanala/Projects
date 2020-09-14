@@ -3,7 +3,7 @@
 #HR CHURN PREDICTION:
 
 
-Objective: An organization invest a lot of time and resources in search of potential candidates. The investment become loses is the selected candidate do not join organization in the end.Recruiter needs to understand the chances of candidate of joining the organization.So prediction of chances of candidate joining is the objective.
+Objective: An organization invest a lot of time and resources in search of potential candidates. The investment become loses is the selected candidate do not join organization in the end.Recruiter needs to understand the chances of candidate of joining the organization.So,prediction of chances of candidate joining is the objective.
 
 
 Data Source: https://www.kaggle.com/harshvardhansaxena/hr-churn-dataset
